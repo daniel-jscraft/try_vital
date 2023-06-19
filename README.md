@@ -15,4 +15,7 @@ Libraries used:
 - Material UI (mostly for the  table; should have used Chakra UI)
 - react-error-boundary
 
+## Project overview
+Project overview here [https://www.youtube.com/watch?v=Bru8XycdUFA](https://www.youtube.com/watch?v=Bru8XycdUFA).
+
 For any questions please write me at daniel.nastase@gmail.com
